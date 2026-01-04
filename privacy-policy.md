@@ -24,20 +24,15 @@ All operations happen within the user’s browser.
 
 The extension uses the following Chrome permissions:
 
-- `activeTab`  
-  Used to read links from the currently active page when the user opens the extension.
+- `activeTab` : Used to read links from the currently active page when the user opens the extension.
 
-- `tabs`  
-  Used to open a temporary Google Search tab to verify index status.
+- `tabs` : Used to open a temporary Google Search tab to verify index status.
 
-- `scripting`  
-  Used to inject scripts into the active tab and Google Search results pages for index detection.
+- `scripting` : Used to inject scripts into the active tab and Google Search results pages for index detection.
 
-- `storage`  
-  Used to store index check results **locally** so results persist while the tab remains open.
+- `storage` : Used to store index check results **locally** so results persist while the tab remains open.
 
-- `https://www.google.com/*`  
-  Required to perform Google Search queries to determine index status.
+- `https://www.google.com/*` : Required to perform Google Search queries to determine index status.
 
 These permissions are used **only** to provide the extension’s core functionality. No collected data leaves the browser.
 
