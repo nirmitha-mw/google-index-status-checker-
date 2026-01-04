@@ -2,7 +2,7 @@
 
 **Effective Date:** 2026-Jan-03
 
-Google Index Status Checker – GISC is a Chrome Extension designed to help users check whether URLs (including the current page and heading links) are indexed in Google. Your privacy is respected, and this extension is built with a local-only approach.
+Google Index Status Checker – GISC is a Chrome Extension designed to help users check whether URLs (including the current page and heading links) on a webpage are indexed in Google. Your privacy is respected, and this extension is built with a local-only approach.
 
 ---
 
